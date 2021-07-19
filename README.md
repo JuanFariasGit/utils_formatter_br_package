@@ -30,7 +30,7 @@ ft.date_format(date)
 ```
 
 ```python
-#format to currency pt-br
+#format to porcent pt-br
 from utils_formatter_br import formatters as ft
 
 num = 1 / 5 
