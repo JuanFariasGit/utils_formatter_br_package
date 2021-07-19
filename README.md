@@ -5,7 +5,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install utils_formatter_br
 
 ```bash
-pip install utils_formatter_br
+pip install utils-formatter-br
 ```
 
 ## Usage
