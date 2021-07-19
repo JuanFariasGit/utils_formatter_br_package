@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     page_description = f.read()
 
 setup(
-    name="utils_formatter_br",
+    name="utils-formatter-br",
     version="0.0.1",
     author="Juan de Oliveira Farias",
     author_email="juanfarias580@gmail.com",
