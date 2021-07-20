@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="utils_formatter_br",
-    version="0.0.1",
+    version="0.0.2",
     author="Juan de Oliveira Farias",
     author_email="juanfarias580@gmail.com",
     long_description=page_description,
